@@ -1,0 +1,74 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("141623-blue-geometric-shapes-background-design.jpg"); /* Aggiungi il percorso dell'immagine dello sfondo */
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #333;
+}
+
+header {
+    background-color: rgba(76, 175, 80, 0.9); /* Cambia il colore in base alle tue preferenze */
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.9); /* Cambia il colore in base alle tue preferenze */
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+#introduzione, #about {
+    background-color: rgba(242, 242, 242, 0.9); /* Cambia il colore in base alle tue preferenze */
+}
+
+#indice ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#indice li {
+    margin-bottom: 10px;
+}
+
+#indice a {
+    text-decoration: none;
+    color: #4CAF50;
+    font-weight: bold;
+}
+
+#indice a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: rgba(76, 175, 80, 0.9); /* Cambia il colore in base alle tue preferenze */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+footer p {
+    margin: 0;
+}
+
+@media (min-width: 768px) {
+    section {
+        margin: 0 auto;
+        max-width: 800px;
+    }
+}
