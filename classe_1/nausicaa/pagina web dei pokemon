@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>i pokemon</title>
+</head>
+<body>
+<h1>i miei pokemon preferiti anche se di tutti quelli che esistono ne conosco solo uno.</h1>
+<p> nel cartone animato questi animaletti vengono catturati e allenati da degli umani, che poi usano uno contro l'altro in tornei per poter vincere delle medaglie.</p>
+<h2> ecco la lista.</h2>
+<img src="oddish.png">
+<img src="pikachu.png">
+<img src="vulpix.png">
+<img src="zubat.png">
+<img src="growlithe.png">
+</body>
+</html>
